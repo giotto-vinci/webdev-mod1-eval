@@ -186,7 +186,6 @@ hr {
   text-align: center;
 }
 
-
 /* Generally accepted minimum pixel width of smartphones.*/
 @media (min-width: 320px) {
   .header_pub-info {
