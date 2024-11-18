@@ -186,7 +186,9 @@ hr {
   text-align: center;
 }
 
-@media (min-width: 100px) {
+
+/* Generally accepted minimum pixel width of smartphones.*/
+@media (min-width: 320px) {
   .header_pub-info {
     flex-direction: row;
     justify-content: space-between;
